@@ -1,1 +1,1 @@
-I used to be...just read the website!
+A short bio.
