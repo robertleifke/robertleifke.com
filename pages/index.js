@@ -9,10 +9,10 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Heyo! My name is Robert Leifke. I co-founded Numoen and am currently building {' '}
-        <a href="https://numoen.com/">PowerMaker</a>, an automated market maker for <a href="https://www.paradigm.xyz/2021/08/power-perpetuals">exotic options</a> on Ethereum.</p>
+        <p>Heyo! My name is Robert Leifke. I am building {' '}
+        <a href="https://powermaker.org/">PowerMaker</a>, an automated market maker for <a href="https://www.paradigm.xyz/2021/08/power-perpetuals">power perpetuals</a> on Ethereum.</p>
         <p>
-          My ultimate goal with Numoen is to build a unified, global marketplace for options. 
+          My ultimate goal is to create a unified marketplace for convexity on the blockchain. My hope is PowerMaker can be the protocol that enables this.
           I think it would do our society a lot of <a href="https://youtu.be/FGkP63hJivQ?si=VuAaAHECTZj2jik4">good</a>.</p>
         <p>
           For now, I'm on a leave of absence from the University of Michigan where I'm majoring in Mathematics. My 
