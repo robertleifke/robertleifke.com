@@ -12,7 +12,7 @@ export default function Home() {
         <p>Heyo! My name is Robert Leifke. I am working on {' '}
         <a href="https://numo.trade/">Numo</a>, a protocol for creating <a href="https://en.wikipedia.org/wiki/Option_(finance)">options</a> on the Ethereum Virtual Machine. It's implementation is inspired by the paper, <a href="https://arxiv.org/abs/2103.14769"><em>Replicating Market Makers</em></a>.</p>
         <p>
-          A financial system serves to transfer risk. Options are the most basic instrument for transferring it.</p>
+          Why options? A financial system serves to transfer risk. Options are the most basic instrument for transferring it.</p>
         <p>
           With <a href="https://numo.trade/">Numo</a> I hope to create a unified marketplace for risk that is globally accessible without intermediaries. I think it would do the world a lot of <a href="https://youtu.be/FGkP63hJivQ?si=VuAaAHECTZj2jik4">good</a>.</p> 
         <p>
