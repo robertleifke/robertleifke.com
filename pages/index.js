@@ -14,7 +14,7 @@ export default function Home() {
         <p>
           Why options? A financial system serves to transfer risk between buyers that want more and sellers that want less of it. This happens through options.</p>
         <p>
-          With <a href="https://numo.trade/">Numo</a> I hope to create a unified marketplace for risk that is globally accessible without intermediaries. I think it would make finance more <a href="https://youtu.be/FGkP63hJivQ?si=VuAaAHECTZj2jik4">useful</a>.</p> 
+          With <a href="https://numo.trade/">Numo</a> I hope to create a unified marketplace for risk that is globally accessible without intermediaries. I believe it will make finance more <a href="https://youtu.be/FGkP63hJivQ?si=VuAaAHECTZj2jik4">useful</a>.</p> 
         <p>
           For now, I'm on a leave of absence from the University of Michigan where I'm majoring in Mathematics. My 
           research interests are in <a href="https://arxiv.org/pdf/2308.08066.pdf">Constant Function Market Makers</a> and 
