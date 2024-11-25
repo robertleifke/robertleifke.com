@@ -10,17 +10,17 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Heyo! My name is Robert Leifke. I am working on {' '}
-        <a href="https://numo.trade/">Numo</a>, a protocol for creating <a href="https://en.wikipedia.org/wiki/Option_(finance)">options</a> on the Ethereum Virtual Machine. It's implementation is inspired by the paper, <a href="https://arxiv.org/abs/2103.14769"><em>Replicating Market Makers</em></a>.</p>
+        <a href="https://x.com/numocash/">Numo</a>, an automated market maker (AMM) for hedging foreign currrencies on blockchains.</p>
+        <p>It's implementation is inspired by the paper, 
+        <a href="https://arxiv.org/abs/2103.14769"><em> replicating market makers</em></a> which first introduced the idea of AMMs for hedging and not just spot trading.</p>
         <p>
-          Why options? A financial system serves to transfer risk between buyers that want more and sellers that want less of it. This happens through options.</p>
+          With Numo I hope to create the most liquid marketplace for foreign currencies in the world.</p>
         <p>
-          With <a href="https://numo.trade/">Numo</a> I hope to create a unified marketplace for risk that is globally accessible without intermediaries. I believe it will make finance more <a href="https://youtu.be/FGkP63hJivQ?si=VuAaAHECTZj2jik4">useful</a>.</p> 
+          I'm finishing my degree in Mathematics from the University of Michigan. My 
+          research interests are in <a href="https://arxiv.org/pdf/2308.08066.pdf">automated market makers</a>, differential privacy, and 
+          lattice-based cryptography.</p>
         <p>
-          For now, I'm on a leave of absence from the University of Michigan where I'm majoring in Mathematics. My 
-          research interests are in <a href="https://arxiv.org/pdf/2308.08066.pdf">Constant Function Market Makers</a> and 
-          Graph Algorithms.</p>
-        <p>
-          If you’re working on <a href="https://en.wikipedia.org/wiki/Decentralized_finance">decentralized finance</a> protocols or just want to chat my twitter is <a href="https://twitter.com/@robertleifke/">@robertleifke.</a></p>
+          If you’re working in <a href="https://en.wikipedia.org/wiki/Decentralized_finance">decentralized finance</a> or just want to chat my twitter is <a href="https://twitter.com/@robertleifke/">@robertleifke.</a></p>
       </section>
     </Layout>
   );
