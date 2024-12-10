@@ -17,8 +17,8 @@ export default function Home() {
           With Numo I hope to create the most liquid marketplace for foreign currencies in the world.</p>
         <p>
           I'm finishing my degree in Mathematics from the University of Michigan. My 
-          research interests are in <a href="https://arxiv.org/pdf/2308.08066.pdf">automated market makers</a>, differential privacy, and 
-          lattice-based cryptography.</p>
+          research interests are in <a href="https://arxiv.org/pdf/2308.08066.pdf">automated market makers</a>, and 
+          formal verification for smart contracts.</p>
         <p>
           If you’re working in <a href="https://en.wikipedia.org/wiki/Decentralized_finance">decentralized finance</a> or just want to chat my twitter is <a href="https://twitter.com/@robertleifke/">@robertleifke.</a></p>
       </section>
